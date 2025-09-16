@@ -2,3 +2,7 @@ Pada latihan 1 ini sya sudah:
 1. Membuat akun GitHub
 2. Membuat Repository
 3. Melakukan edit pada file
+
+Pada Latihan ini juga saya sudah:
+a. membuat file latihan1.txt
+b. mencoba membuat branch
